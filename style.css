@@ -1,0 +1,109 @@
+body {
+    font-family: 'Merriweather', serif;
+    margin: 0;
+}
+
+.section-1 {
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin: 0px;
+    height: 500%;
+    width: 100%;
+}
+
+.donate-now {
+    text-align: center;
+    padding-bottom: 10%;
+    padding-top: 10%;
+    color: white;
+}
+
+.donate-now h1 {
+    font-size: 40px;
+    font-weight: 900;
+}
+
+.donate-now p {
+    padding-bottom: 20px;
+    font-size: 13px;
+}
+
+.donate-now a {
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px 20px;
+    color: white;
+    font-size: 18px;
+    border-radius: 50px;
+}
+
+.donate-today {
+    text-align: center;
+}
+
+.donate-today h1 {
+    font-size: 27px;
+    font-weight: 900;
+    padding-top: 6%;
+}
+
+.donate-today P {
+    font-size: 12px;
+    color: rgb(113, 110, 110);
+}
+
+.taka-1 {
+    display: flex;
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 3%;
+    margin-bottom: 2%;
+}
+
+.Taka {
+    padding: 3%;
+    background-color: whitesmoke;
+    margin: 2%;
+    border-radius: 5px;
+    font-size: 23px;
+    font-weight: bold;
+    color: rgb(93, 87, 87);
+}
+
+#donate-200 {
+    padding: 3%;
+    margin: 2%;
+    background-color: pink;
+    border: 2px solid tomato;
+    border-radius: 5px;
+    font-size: 23px;
+    font-weight: bold;
+    color: rgb(223, 65, 38);
+}
+
+.form-area {
+    border: 0;
+    outline: 0;
+
+    margin-left: 50%;
+    margin-right: 50%;
+}
+
+hr {
+    margin-left: 17%;
+    margin-right: 20%;
+    margin-bottom: 4%;
+}
+
+.donate-taka {
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px 20px;
+    color: white;
+    font-size: 18px;
+    border-radius: 50px;
+    margin-left: 49%;
+}
