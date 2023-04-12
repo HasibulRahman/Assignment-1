@@ -163,3 +163,99 @@ hr {
     margin-bottom: 4%;
     border-radius: 5px;
 }
+
+.how-to-contribute {
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px 20px;
+    color: white;
+    font-size: 18px;
+    border-radius: 15px;
+
+}
+
+.section-4 {
+    display: flex;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.lives-depend {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.lives-depend img {
+    width: 87%;
+    border-radius: 5px;
+}
+
+.lives-depend h1 {
+    font-size: 35px;
+}
+
+.lives-depend p {
+    text-align: justify;
+    color: #707070;
+    padding-bottom: 15px;
+}
+
+.get-my-update {
+    text-align: center;
+    margin-left: 12%;
+    margin-right: 12%;
+    margin-bottom: 5%;
+    margin-top: 5%;
+}
+
+.get-my-update h1 {
+    font-size: 35px;
+}
+
+.get-my-update p {
+    font-size: 13px;
+    color: #707070;
+}
+
+.e-mail-box {
+    background-color: rgba(255, 207, 215, 0.532);
+    padding: 50px;
+}
+
+.e-mail-box input {
+    padding: 1%;
+    border: 0;
+    outline: 0;
+    background-color: #d1d1d1;
+    border-radius: 3px;
+}
+
+.e-mail-box button {
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    border: 0;
+    outline: 0;
+    color: white;
+    background-color: #FF5959;
+    border-radius: 3px;
+}
+
+footer {
+    background-color: #0B0D17;
+    text-align: center;
+    padding: 15px;
+
+}
+
+footer h1 {
+    color: #FF5959;
+    font-style: italic;
+}
+
+footer p {
+    color: white;
+    font-size: 12px;
+}
