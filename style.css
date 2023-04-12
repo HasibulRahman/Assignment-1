@@ -241,6 +241,7 @@ hr {
     color: white;
     background-color: #FF5959;
     border-radius: 3px;
+    cursor: pointer;
 }
 
 footer {
